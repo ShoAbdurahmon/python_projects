@@ -1,0 +1,8 @@
+print("False -> bu qiymat agar shart notog'ri bolsa keladi. masalan 2 == 5 bu yerda 2 5ga tengmi? javob yoq bolgani uchun False ")
+print("None -> bu ! belgisidir. Shart True bolsa False, False bolsa True qilib beradi. ")
+print("True -> shart togri bolsa True keladi.")
+print("And -> va degani ikkita tomonidagi shartlar togri bolishi kerak")
+print("Import -> import python modullariini chaqirish uchun ishlatiladi.")
+print("class -> bu object oriented programming unda object uchun alohida variable lar functionlar yoziladi")
+print("def -> funksiya lar yoziladi!!! ")
+print("in -> itterable element ichidan biror narsa qidirish uchun ishlatiladi. hamda for da ishlatiladi.")
